@@ -3,9 +3,9 @@
 }
 
 body{
-	margin:0;
+margin:0;
 	padding:0;
-	background-color:#000;
+	background-image: url(https://cdn.discordapp.com/attachments/792299458863693825/822832247468064788/images.jpeg);
 	font-family: 'Concert One', cursive;
 }
 
@@ -218,6 +218,7 @@ body{
 		 color:white;
 		 line-height: 75px;
 		 text-align: center;
+     top: 0;
 
 	 }
 	  
