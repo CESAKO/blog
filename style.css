@@ -5,21 +5,21 @@
 body{
 	margin:0;
 	padding:0;
-	background-image: url(https://cdn.discordapp.com/attachments/819499282892718080/819935528379613204/frobotimg_1220x575.jpg);
+	background-color:#000;
 	font-family: 'Concert One', cursive;
 }
 
 #social{
 	background-color:  #0e81e4;
-	color: white;
-	height: 55px;
+	color: #FCFF33;
+	height: 60px;
 	width: 100%;
 	position: sticky;
 	top: 0;
-	z-index: 1;
+	z-index: 10;
 	font-size: 18px;
 	text-align: right;
-	padding: 15px;
+	padding: 30px;
 	
 }
 
@@ -34,7 +34,7 @@ body{
    }
    
    #social>i{
-	   margin-right:15px;
+	   margin-right:30px;
    } 
    
     #social>i:hover{
@@ -48,7 +48,9 @@ body{
    }
    
    
-	   
+.enust{
+  color:#FCFF33;
+}
 	  header{
 		  width:100%;
 		  height:250px;
