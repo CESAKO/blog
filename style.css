@@ -100,6 +100,8 @@ margin:0;
 		overflow:auto;
 		
 	}
+
+
 	nav{
 		width:20%;
 		float:left;
@@ -146,8 +148,8 @@ margin:0;
 	
       
 .icerik {
-  width:90%;
-  height:auto;
+  width:50%;
+  height:250px;
     color: #fff;
     background-color: #000;
  
@@ -156,7 +158,7 @@ margin:0;
 }
 
 .icerikalt{
-height:auto;
+height:250px;
     background: #F8EA10;
     padding: 50px 100px;
     margin-left: -5px;
