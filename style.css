@@ -27,6 +27,11 @@ margin:0;
 	   float:left;
 	   letter-spacing: 2px;
    }
+ fontt{
+	   float:right;
+	   letter-spacing: 2px;
+  
+   }
    
    span{
 
@@ -85,11 +90,16 @@ margin:0;
 		 
 	  }
 	  
+.yann {
+  color:white;
+  border:5px solid #02029C;
+  border-radius: 0px 0px 0px 0px;
+  
+}
+		  
 .yan {
   color:white;
-  border:5px ;
-}
-		
+}	
 	section{
 		width:100%;
 		height:auto;
@@ -99,7 +109,8 @@ margin:0;
 		box-shadow: 0 2px 4px 1px rgba(10, 13, 18, 5);
 	    margin-top:15px;
 		overflow:auto;
-    border: 3px solid #fff;
+    border: 3px solid #02029C;
+    border-radius: 20px 20px 0px 0px;
 		
 	}
 
@@ -109,6 +120,7 @@ margin:0;
 		float:left;
 		margin-top:10px;
 	    height:auto;
+    
 	}
 	
 	nav ul{
@@ -116,6 +128,7 @@ margin:0;
 		height:100%;
 		margin: 0px;
 		padding:0;
+
 	}
 	
 	nav li{
@@ -145,7 +158,8 @@ margin:0;
 	   float:left;
 	   height:auto;
 	   width:80%;
-	   padding: 10px
+	   padding: 10px;
+     
    }
 	
       
@@ -157,6 +171,8 @@ margin:0;
    margin-left: 70px;
     border: 5px solid #02029C;
     border-radius: 20px 20px 0px 0px;
+  margin-top: 100px;
+  float:center;
 }
 
 .icerikalt{
@@ -167,10 +183,13 @@ height:250px;
     margin-right: -5px;
     border-radius: 0px 0px 20px 20px;
   border:5px solid #02029C;
+  float: center;
   
 }
 
-
+.yany {
+  border: 3px solid #fff:
+}
 
 .dahafazla{
     font-family: sans-serif;
@@ -190,10 +209,10 @@ height:250px;
   
   -webkit-border-top-left-radius:00px;
 	-moz-border-radius-topleft:100px;
-	border-top-left-radius:10px;
+	border-top-left-radius:50px;
 	-webkit-border-top-right-radius:00px;
-	-moz-border-radius-topright:100px;
-	border-top-right-radius:10px;
+	-moz-border-radius-topright:50px;
+	border-top-right-radius:50px;
 	-webkit-border-bottom-right-radius:100px;
 	-moz-border-radius-bottomright:100px;
 	border-bottom-right-radius:100px;
