@@ -168,12 +168,16 @@ height:250px;
   
 }
 .dahafazla{
-    font-family: Roboto;
+    font-family: sans-serif;
     font-size: 24px;
     margin-top: -18px;
     margin-left: 60px;
     font-size:20px;
   list-style-type: none;	
+  border:4px solid #000;
+    border-radius:20px;
+  text-align: center;
+  backgaund-color: #000;
 }
 
 .dahafazla nav ul li a{
@@ -184,6 +188,50 @@ height:250px;
 .dahafazla a{
     color:#000;
 }
+
+.alonebutton {
+	background-color:#000;
+	-webkit-border-top-left-radius:100px;
+	-moz-border-radius-topleft:100px;
+	border-top-left-radius:100px;
+	-webkit-border-top-right-radius:100px;
+	-moz-border-radius-topright:100px;
+	border-top-right-radius:100px;
+	-webkit-border-bottom-right-radius:100px;
+	-moz-border-radius-bottomright:100px;
+	border-bottom-right-radius:100px;
+	-webkit-border-bottom-left-radius:100px;
+	-moz-border-radius-bottomleft:100px;
+	border-bottom-left-radius:100px;
+text-indent:1;
+	border:2px solid #000;
+	display:block;
+	color:#fff;
+	font-family:arial;
+	font-size:20px;
+	font-weight:bold;
+	font-style:normal;
+height:60px;
+	line-height:50px;
+width:250px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px #525453;
+}.alonebutton:hover {
+	background-color:#fff;
+  color: #000;
+}.alonebutton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+
+
+
 
 	  #yardım{
 		  width:100%;
