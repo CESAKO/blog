@@ -5,6 +5,3 @@ var app = express();
 const moment = require("moment");
 require("moment-duration-format");
 const path = require("path");
-app.get("/bots", (req, res) => {
-(res, req, ".html")
-});
