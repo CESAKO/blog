@@ -89,13 +89,7 @@ margin:0;
      
 		 
 	  }
-	  
-.yann {
-  color:white;
-  border:5px solid #02029C;
-  border-radius: 0px 0px 0px 0px;
-  
-}
+	
 		  
 .yan {
   color:white;
@@ -120,8 +114,7 @@ margin:0;
 		float:left;
 		margin-top:10px;
 	    height:auto;
-    border:10px solid #02029C; 
-    border-radius: 0px 10px 10px 0px;
+  
     
    
 	}
@@ -210,12 +203,13 @@ height:250px;
   
   
   
+  
   -webkit-border-top-left-radius:00px;
 	-moz-border-radius-topleft:100px;
-	border-top-left-radius:50px;
+	border-top-left-radius:100px;
 	-webkit-border-top-right-radius:00px;
-	-moz-border-radius-topright:50px;
-	border-top-right-radius:50px;
+	-moz-border-radius-topright:100px;
+	border-top-right-radius:100px;
 	-webkit-border-bottom-right-radius:100px;
 	-moz-border-radius-bottomright:100px;
 	border-bottom-right-radius:100px;
